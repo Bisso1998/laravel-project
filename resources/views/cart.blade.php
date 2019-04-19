@@ -20,7 +20,7 @@
 
 </span>
 <span style="font-size: 20px; color: white; padding: 15px;  cursor: pointer ; margin-left: 200px;">
-<a  href="/addItem">Sell Your Cat</a>
+<a  href="/addItem">Sell Your Pet</a>
 </span>
 
 </div>
@@ -74,7 +74,7 @@ $count = 0;
     </b>
    </p>
    <p style="font-size: 30px">
-    Number of cats {{$count}}
+    Number of pets {{$count}}
    </p>
     </p>
   </div>
